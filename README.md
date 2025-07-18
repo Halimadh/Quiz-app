@@ -67,8 +67,10 @@ export default tseslint.config([
   },
 ])
 
-
-
 ```
+## SCREEN 
 <img width="714" height="394" alt="image" src="https://github.com/user-attachments/assets/c6b087c8-2f7b-40fc-a3ae-c75cd9cb8610" />
+
+<img width="562" height="320" alt="image" src="https://github.com/user-attachments/assets/cbdb0b01-ef1c-4c10-a706-e8ba4200d3b4" />
+
 
