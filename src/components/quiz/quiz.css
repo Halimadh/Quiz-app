@@ -1,0 +1,27 @@
+.option {
+  max-width: 30rem;
+  height: 2.5rem;
+  border: 0px solid rgb(71, 70, 70);
+  border-radius: 0.5rem;
+  background-color: rgb(188, 203, 218);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 5px;
+  margin-bottom: 10px;
+  flex-wrap: wrap;
+  cursor: pointer;
+}
+.option:hover {
+  background-color: rgba(188, 203, 218, 0.63);
+}
+.option.selected {
+  background-color: rgb(41, 127, 212);
+  color: aliceblue;
+}
+.navbar-button {
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
