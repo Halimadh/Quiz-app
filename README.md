@@ -67,6 +67,8 @@ export default tseslint.config([
   },
 ])
 
-<img width="714" height="394" alt="image" src="https://github.com/user-attachments/assets/ef5ee471-cdd9-4a55-b713-336689fb793c" />
+
 
 ```
+<img width="714" height="394" alt="image" src="https://github.com/user-attachments/assets/c6b087c8-2f7b-40fc-a3ae-c75cd9cb8610" />
+
